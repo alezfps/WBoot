@@ -73,7 +73,7 @@ This system protects Spigot plugins through a multi-layered approach:
 ## Quick Start
 
 ### Prerequisites
-- Java 11+ and Gradle
+- Java 11+
 - VPS with Ubuntu/Debian
 - Domain name with DNS pointing to VPS
 
